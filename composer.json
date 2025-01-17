@@ -11,7 +11,7 @@
         "link"
     ],
     "require": {
-        "php": ">=7.4",
+        "php": ">=8.0",
         "psr/link": "^1.0",
         "sylius/resource-bundle": "^1.6",
         "symfony/config": "^5.4 || ^6.0",
